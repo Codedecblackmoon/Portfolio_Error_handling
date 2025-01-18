@@ -6,17 +6,11 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h2>Sorry... Demo is not available</h2>
+        <div className='links'>
+          <a className="App-link" href="https://github.com/Codedecblackmoon" target="_blank"> My Github </a>
+          <a className="App-link" href="https://my-portfolio-ten-psi-47.vercel.app/" target="_blank"> Back to Portfolio </a>
+        </div>
       </header>
     </div>
   );
